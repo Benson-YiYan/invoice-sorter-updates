@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "architecture": "arm64",
-  "downloadUrl": "https://github.com/Benson-YiYan/invoice-sorter-updates/releases/download/v1.0.5/InvoiceSorter-1.0.5-arm64.pkg",
-  "sha256": "a489c7aa11cc46e18ad9641aae83b033974f9d33eadf98e3f87f0d3d3315dd23",
-  "size": 129311030
+  "downloadUrl": "https://github.com/Benson-YiYan/invoice-sorter-updates/releases/download/v1.0.6/InvoiceSorter-1.0.6-arm64.pkg",
+  "sha256": "562a39c58b302a4fab3ede6044904cbdc2280bc36c77466dee6d87da9b9e1f05",
+  "size": 129310814
 }
